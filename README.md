@@ -40,10 +40,10 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/shahbaz-hashmi-561b932aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/shahbaz-hashmi-561b932aa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://www.instagram.com/shahbazhashmi235/profilecard/?igsh=MW96bm91dW04YWc0Zw==" target="_blank">
+  <a href="https://www.instagram.com/shahbazhashmi235/#" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
   </a>
 </p>
