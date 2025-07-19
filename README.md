@@ -43,9 +43,10 @@
   <a href="https://www.linkedin.com/in/shahbaz-hashmi-561b932aa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://www.instagram.com/shahbazhashmi235/#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40"/>
+  <a href="https://www.instagram.com/shahbazhashmi235" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" />
   </a>
 </p>
+
 
 Feel free to reach out for any collaboration, queries, or internship opportunities!
