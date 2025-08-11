@@ -9,6 +9,7 @@
 ## 🛠️ Skills
 
 - **Frontend Development:** HTML, CSS, JavaScript, Tailwind CSS, React.js
+- **Backend Development:** Node js, express js, MySql
 - **Programming Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
 
 ---
