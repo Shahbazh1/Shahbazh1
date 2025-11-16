@@ -11,7 +11,7 @@
 ## 💼 Internship Experience — *Nitensclue, Faisalabad*
 
 **Role:** MERN Stack Developer Intern  
-**Duration:**Aug 2025 – Present  
+**Duration:** Aug 2025 – Present  
 
 ### Key Contributions:
 - Worked on the **official Nitensclue website**, improving **frontend responsiveness** and adding **modern animations**.  
