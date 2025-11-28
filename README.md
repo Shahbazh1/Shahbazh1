@@ -67,7 +67,7 @@ An e-commerce platform for selling fresh fruits and vegetables, deployed on Fire
 
 ### 🏫 **College Management System**
 Developed for *Govt. Associate College* to manage attendance and test reports with separate student and admin dashboards.  
-**Tech Stack:** React.js, Tailwind CSS, JavaScript  
+**Tech Stack:** React.js, Tailwind CSS, JavaScript, Redux, Express, Mysql,  
 
 ### 🌦️ **Weather Website**
 Fetches and displays live weather data from an API, improving API integration understanding.  
