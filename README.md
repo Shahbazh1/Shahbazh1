@@ -8,7 +8,7 @@
 
 ---
 
-## 💼 Internship Experience — *Nitensclue, Faisalabad*
+## 💼 Internship Experience — *NITENSCLUE, Faisalabad*
 
 **Role:** MERN Stack Developer Intern  
 **Duration:** Aug 2025 – Present  
