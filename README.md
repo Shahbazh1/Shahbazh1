@@ -65,7 +65,7 @@
 An e-commerce platform for selling fresh fruits and vegetables, deployed on Firebase.  
 **Tech Stack:** React.js, Tailwind CSS, JavaScript, Firebase  
 
-### 🏫 **College Management System**
+### 🏫 **Edu-Track College Management System**
 Developed for *Govt. Associate College* to manage attendance and test reports with separate student and admin dashboards.  
 **Tech Stack:** React.js, Tailwind CSS, JavaScript, Redux, Express, Mysql,  
 
