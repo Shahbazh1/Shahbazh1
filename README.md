@@ -61,7 +61,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 **Fresh Basket**
+### 🛒 **Fresh Basket Ecommerce platform**
 An e-commerce platform for selling fresh fruits and vegetables, deployed on Firebase.  
 **Tech Stack:** React.js, Tailwind CSS, JavaScript, Firebase  
 
